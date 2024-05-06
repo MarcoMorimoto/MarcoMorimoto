@@ -1,5 +1,6 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/MarcoMorimoto/MarcoMorimoto/blob/main/github-header-image.png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/MarcoMorimoto/MarcoMorimoto/blob/main/github-header-image%20(4).png" />
 &nbsp;&nbsp;&nbsp;
+
 <p align="center">I apply advanced technical skills to tackle complex challenges using technology. As a data scientist, my passion lies in extracting valuable insights from diverse datasets. I balance my technical prowess with managerial skills, leading teams, coordinating projects, and continuously enhancing analytical processes. I'm an expert in data analysis, statistical modeling, and machine learning, applying them agilely to solve real-world problems.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
