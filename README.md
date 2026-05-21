@@ -1,5 +1,3 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/MarcoMorimoto/MarcoMorimoto/blob/main/github-header-image%20(4).png" />
-&nbsp;&nbsp;&nbsp;
 
 
 
